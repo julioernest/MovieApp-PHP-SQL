@@ -1,0 +1,11 @@
+body {
+  background-image: url("bac2.jpg");
+  background-size: 100% auto;
+}
+
+#homebutton {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
