@@ -6,4 +6,4 @@ In order to use the code I suggest download and install the XAMPP version 8.0.1 
 1. Pull the github repo on your local.
 2. Take every file from folders and move it in
 XAMPP/htdocs/"yourDataBaseName" (mine was Filme), as it shown in the image.
-![alt text](https://github.com/julioernest/MovieApp-PHP-SQL/tree/main/resources/setUp1)
+![alt text](https://github.com/julioernest/MovieApp-PHP-SQL/blob/main/resources/setUp1.png)
