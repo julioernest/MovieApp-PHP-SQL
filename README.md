@@ -1,6 +1,6 @@
 # MovieApp-PHP-SQL
 I developed a site with the purpose to learn front end and database connection/SQL syntax. It is inspired by IMBD and Netflix.
-
+![alt text](https://github.com/julioernest/MovieApp-PHP-SQL/blob/main/proiectbd.gif)
 # Set-up de code!
 In order to use the code I suggest download and install the XAMPP version 8.0.1 (contains MariaDB, PHP).
 1. Pull the github repo on your local.
